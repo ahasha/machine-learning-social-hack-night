@@ -6,6 +6,10 @@ We will discuss journal articles starting with a focus on Deep Learning but evol
 
 You should feel enthusiastic about reading technical journal articles, writing a few lines of code, pushing to GitHub, and being friendly and encouraging with other nerds. Otherwise, all experience levels are welcome! Bring your curiosity and a laptop if you want to hack on a side project. The venue provides wifi and snacks for purchase.  
 
+## Next meetup
+
+We're having our [first meetup](https://www.meetup.com/Machine-Learning-Social-Hack-Nights/events/242674269/) on 9/21 at [Lemonade coworking space](http://www.lemonade.love/)!  Visit [this page](https://www.meetup.com/Machine-Learning-Social-Hack-Nights/events/242674269/) to vote on the paper you want for journal club.
+
 ## Venue
 
 I'm currently planning to book space at [Lemonade coworking space](http://www.lemonade.love/). They provide wifi, but limited snack options.  BYO snacks and drinks!  
