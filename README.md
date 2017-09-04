@@ -10,6 +10,20 @@ You should feel enthusiastic about reading technical journal articles, writing a
 
 We're having our [first meetup](https://www.meetup.com/Machine-Learning-Social-Hack-Nights/events/242674269/) on 9/21 at [Lemonade coworking space](http://www.lemonade.love/)!  Visit [this page](https://www.meetup.com/Machine-Learning-Social-Hack-Nights/events/242674269/) to vote on the paper you want for journal club.
 
+* 6:15-6:30: Arrive 
+* 6:30-7: Introductions and ice breaker (30 minutes)
+* 7-7:45: Breakouts (groups of five or so) 
+    * Journal club discussions
+        * One person gives a 5-10 minute overview of the paper, summarizing 1 or 2 takeaways and 1 or 2 things they didn't understand
+        * General discussion
+    * Show and tell
+        * Share a project demo, or just an idea
+        * Share something you're blocked on and get debugging help from the group
+        * Keep feedback encouraging and helpful. Thought provoking questions are welcome, but "That's not a good idea" is not.
+* 7:45-8:30: Hack time (45 minutes)
+* 8:30-8:45: Share ideas for next time (15 minutes)
+* Cleanup, schmooze, depart
+
 ## Venue
 
 I'm currently planning to book space at [Lemonade coworking space](http://www.lemonade.love/). They provide wifi, but limited snack options.  BYO snacks and drinks!  
