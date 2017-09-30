@@ -4,7 +4,7 @@ This is a GitHub collaboration site for members of Machine Learning Social Hack 
 
 We will discuss journal articles starting with a focus on Deep Learning but evolving with the interests of the group. We'll also have informal hacking sessions where you can show and tell your side project or just get help with something (eek, how do I install tensorflow!?)
 
-You should feel enthusiastic about reading technical journal articles, writing a few lines of code, pushing to GitHub, and being friendly and encouraging with other nerds. Otherwise, all experience levels are welcome! Bring your curiosity and a laptop if you want to hack on a side project. The venue provides wifi and snacks for purchase.  
+You should feel enthusiastic about reading technical journal articles, writing a few lines of code, pushing to GitHub, and being friendly and encouraging with other nerds. Otherwise, all experience levels are welcome! Bring your curiosity and a laptop if you want to hack on a side project. 
 
 ## Next meetup
 
@@ -24,6 +24,8 @@ We found two implementations of the networks described in the paper on GitHub, w
 * [https://github.com/NVIDIA/DIGITS/tree/master/examples/text-classification](https://github.com/NVIDIA/DIGITS/tree/master/examples/text-classification)
 
 A key question we had was how exactly the input data is structured to feed into the neural network.
+
+As always, feel free to propose your own topics and see if you can get a few others to look into it with you.
 
 
 
