@@ -8,25 +8,32 @@ You should feel enthusiastic about reading technical journal articles, writing a
 
 ## Next meetup
 
-We're having our [first meetup](https://www.meetup.com/Machine-Learning-Social-Hack-Nights/events/242674269/) on 9/21 at [Lemonade coworking space](http://www.lemonade.love/)!  Visit [this page](https://www.meetup.com/Machine-Learning-Social-Hack-Nights/events/242674269/) to vote on the paper you want for journal club.
+Our [next meetup](https://www.meetup.com/Machine-Learning-Social-Hack-Nights/events/243635694/) will be on Thursday 10/5 at the offices of [Mobeewave](http://mobeewave.com/en/home-2/) (Thanks Raphaël!)
 
-* 6:15-6:30: Arrive 
-* 6:30-7: Introductions and ice breaker (30 minutes)
-* 7-7:45: Breakouts (groups of five or so) 
-    * Journal club discussions
-        * One person gives a 5-10 minute overview of the paper, summarizing 1 or 2 takeaways and 1 or 2 things they didn't understand
-        * General discussion
-    * Show and tell
-        * Share a project demo, or just an idea
-        * Share something you're blocked on and get debugging help from the group
-        * Keep feedback encouraging and helpful. Thought provoking questions are welcome, but "That's not a good idea" is not.
-* 7:45-8:30: Hack time (45 minutes)
-* 8:30-8:45: Share ideas for next time (15 minutes)
-* Cleanup, schmooze, depart
+* 6-6:30: Arrive and introductions
+* 6:30-8:30: Discussion and hacking time
+* 8:30-9: Plan topics for next time, cleanup and depart
+
+We will be following up on the topic of our first meetup, character-level deep learning networks for text understanding.
+
+Last time, we looked at two papers: [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626), and a precursor paper with overlapping content: [Text Understanding from Scratch](https://arxiv.org/abs/1502.01710).
+
+We found two implementations of the networks described in the paper on GitHub, which we will use as a starting point for some tinkering.  
+
+* [https://github.com/zhangxiangxiao/Crepe](https://github.com/zhangxiangxiao/Crepe)
+* [https://github.com/NVIDIA/DIGITS/tree/master/examples/text-classification](https://github.com/NVIDIA/DIGITS/tree/master/examples/text-classification)
+
+A key question we had was how exactly the input data is structured to feed into the neural network.
+
+
+
 
 ## Venue
 
-I'm currently planning to book space at [Lemonade coworking space](http://www.lemonade.love/). They provide wifi, but limited snack options.  BYO snacks and drinks!  
+The venue for our next meetup has been generously provided by [Mobeewave](http://mobeewave.com/en/home-2/)
+
+80 Queen street Suite 502, Montréal, QC
+  
 
 ## Example Agenda
 
